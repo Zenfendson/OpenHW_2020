@@ -1,6 +1,6 @@
 # OpenHW_2020
 
-![introduction](/mywebsite/OpenHW_2020/images/introduction.png)
+![introduction](/images/introduction.png)
 
 # Introduction
 2021年3月28日下午2-5点，OpenHW开源硬件社区2020年度总结在线上举行。共计10支优秀本科生和研究生作品队伍进行了作品报告和开源社区未来发展的探讨，他们分别来自2020年不同竞赛或是活动，例如研电赛，夏令营，冬令营，也有直接来自开源社区的队伍。多位来自学术界的教授和工业界的领导参与到了开源社区的未来发展的讨论和最具潜力的开源项目的评比。
@@ -17,7 +17,7 @@
 
 # Agenda
 
-![agenda](/mywebsite/OpenHW_2020/images/agenda.png)
+![agenda](/images/agenda.png)
 
 # Assessment rules
 
