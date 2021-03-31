@@ -49,13 +49,13 @@
 
 | No | 团队成员| 项目名称                            | 状态 |
 |:---|:--------|:----------------------------------:|:----:|
-| 1  | 江南B318| 基于PYNQ的类脑计算平台              | 已开源|
+| 1  | 江南B318| [基于PYNQ的类脑计算平台](https://github.com/clancylea/SNN-simulator-NEST_14.0-xilinx_FPGA_cluster)              | 已开源|
 | 2  | 任骥恺 | [基于HLS的LZ77数据压缩算法实现](https://github.com/bjrjk/HLS-LZ77)        | 已开源|
-| 3  | 马凯   | 磁场扫描仪                          | 已开源|
+| 3  | 马凯   | 磁场扫描仪                          | 未开源|
 | 4  | 刘济源 王成诚| 在游戏中学习FPGA设计的开源套件       | 已开源|
-| 5  | 姜伟雄 | Design Space Exploration of Enegy Efficient Lightweight Neural Network on Edge FPGA| 已开源|
-| 6  | 陈辰  | 基于FPGA异构平台神经网络加速器的设计与实现    | 已开源|
-| 7  | 赵辰宇 白瑞昕 张慈庭| 基于FPGA和麦克风阵列的高速高精度声源定位       | 已开源|
-| 8  | 杨雨昕 宋涛 | 逆运动学算法的硬件加速              | 已开源|
-| 9  | 李婷婷 | 开源H.265视频编码芯片IP核              | 已开源|
-| 10  | 孔祥聪 | Algorithm-hardware co-design for pulsar coherent de-dispersion algorithm on FPGA | 已开源|
+| 5  | 姜伟雄 | [Design Space Exploration of Enegy Efficient Lightweight Neural Network on Edge FPGA](https://github.com/jiangwx/SkrSkr)| 已开源|
+| 6  | 陈辰  | [基于FPGA异构平台神经网络加速器的设计与实现](https://github.com/dhm2013724/yolov2_xilinx_fpga)    | 已开源|
+| 7  | 赵辰宇 白瑞昕 张慈庭| 基于FPGA和麦克风阵列的高速高精度声源定位       | 未开源|
+| 8  | 杨雨昕 宋涛 | [逆运动学算法的硬件加速](https://github.com/CICS-ICT/ik-acceleration)              | 已开源|
+| 9  | 李婷婷 | [开源H.265视频编码芯片IP核](http://openasic.org/)              | 已开源|
+| 10  | 孔祥聪 | [Algorithm-hardware co-design for pulsar coherent de-dispersion algorithm on FPGA](https://github.com/kongxiangcong/Pulsar-FPGA) | 已开源|
