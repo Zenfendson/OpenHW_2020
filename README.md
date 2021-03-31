@@ -50,7 +50,7 @@
 | No | 团队成员| 项目名称                            | 状态 |
 |:---|:--------|:----------------------------------:|:----:|
 | 1  | 江南B318| 基于PYNQ的类脑计算平台              | 已开源|
-| 2  | 任骥恺 | 基于HLS的LZ77数据压缩算法实现        | 已开源|
+| 2  | 任骥恺 | [基于HLS的LZ77数据压缩算法实现](https://github.com/bjrjk/HLS-LZ77)        | 已开源|
 | 3  | 马凯   | 磁场扫描仪                          | 已开源|
 | 4  | 刘济源 王成诚| 在游戏中学习FPGA设计的开源套件       | 已开源|
 | 5  | 姜伟雄 | Design Space Exploration of Enegy Efficient Lightweight Neural Network on Edge FPGA| 已开源|
